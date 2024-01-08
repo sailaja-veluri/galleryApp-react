@@ -1,0 +1,14 @@
+/* Write your code here. */
+.unselected-img {
+  height: 40px;
+  width: 40px;
+  opacity: 0.5;
+  margin: 10px;
+}
+
+.selected-img {
+  height: 40px;
+  width: 40px;
+  opacity: 1;
+  margin: 10px;
+}
